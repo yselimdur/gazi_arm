@@ -1,5 +1,6 @@
 TEMPLATE = subdirs
 CONFIG += ordered
-SUBDIRS = merhaba
+SUBDIRS = merhaba \
+    sirala
 
 
